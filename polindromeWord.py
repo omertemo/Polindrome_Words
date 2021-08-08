@@ -4,7 +4,7 @@ def isPalindrome(s):
 s = input()
 ans = isPalindrome(s)
 
-if ans:
+if ans:                #controls
 	print("True")
 else:
 	print("False")
