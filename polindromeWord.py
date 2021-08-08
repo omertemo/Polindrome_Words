@@ -5,6 +5,7 @@ s = input()
 ans = isPalindrome(s)
 
 if ans:                #controls
-	print("True")
+	print("True. Congratulations")
 else:
-	print("False")
+	print("False. Try another string.")
+	
